@@ -9,9 +9,9 @@
           zhux4500@mylaurier.ca
  Version  2021-07-30
  -------------------------------------
-GitHub login ID: wudidezhuge
-                 yzr6666
-URL: https://github.com/wudidezhuge/A04.git
+ GitHub login ID: wudidezhuge
+                  yzr6666
+ URL: https://github.com/wudidezhuge/A04.git
  -------------------------------------
  */
 #include <stdio.h>
