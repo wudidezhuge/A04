@@ -10,4 +10,4 @@ Test case: See Screenshot
 Use examples: gcc Question1.c -o Question1
               ./Question1 10 5 7 8
 About Developer:Zhuoran Yang , Haopeng Zhu
-License to use your code: 
+License to use your code: None
