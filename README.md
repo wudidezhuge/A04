@@ -5,8 +5,8 @@ Screenshots:
 
 Individual contribution(function-wise): (Zhuoran Yang) Maximum function, Run_exe_RQ_RL function, and basic structure.
                                         (Haopeng Zhu) Main function, printStartInfo function, and updateNeed function.
-                                        All members do the good job.
-Feature:
+                                        All members do the great job.
+Feature: fast, reliable.
 Test case: 
 Use examples: 
 About Developer:
