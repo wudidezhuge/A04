@@ -9,6 +9,6 @@ Individual contribution(function-wise): (Zhuoran Yang) Maximum function, Run_exe
 Feature: fast, reliable.
 Test case: 
 Use examples: 
-About Developer:
+About Developer:Zhuoran Yang , Haopeng Zhu
 Credits: 
 License to use your code: 
