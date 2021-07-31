@@ -4,13 +4,13 @@
  Project: A04
  -------------------------------------
  Author:  Zhuoran Yang  (186800610)
-              Haopeng Zhu   (186804500)
+          Haopeng Zhu   (186804500)
  Email:   yang0610@mylaurier.ca
-             zhux4500@mylaurier.ca
+          zhux4500@mylaurier.ca
  Version  2021-07-30
  -------------------------------------
 GitHub login ID: wudidezhuge
-                          yzr6666
+                 yzr6666
 URL: https://github.com/wudidezhuge/A04.git
  -------------------------------------
  */
